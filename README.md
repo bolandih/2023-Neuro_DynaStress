@@ -10,4 +10,4 @@ disaster events requiring immediate corrections to avoid fatal failures. As a re
 predict the entire sequence of stress distribution based on nite element simulations using a partial diferential equation (PDE) solver. The model was designed and trained to use the geometry, boundary conditions and sequence of loads as input and predict the sequences of high-resolution stress contours. The proposed framework's performance is compared to finite element simulations using a PDE solver.
 
 ### Neuro-DynaStress
-![Neuro-DynaStress](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Neuro-DynaStress.png)
+![Neuro-DynaStress](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/overview-neuro-DynaSt.png)
