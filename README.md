@@ -14,3 +14,6 @@ predict the entire sequence of stress distribution based on nite element simula
 
 ### Network Architecture
 ![Arc](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Neuro-DynaStress.png)
+
+### predicted dynamic stress distribution and their corresponding errors in diferent time sequences
+![comparision](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/paper3-comparision.png)
