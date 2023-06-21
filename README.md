@@ -11,3 +11,6 @@ predict the entire sequence of stress distribution based on nite element simula
 
 ### Neuro-DynaStress
 ![Neuro-DynaStress](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Neuro-DynaStress_Page_02.png)
+
+### Network Architecture
+[Arc](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Neuro-DynaStress.png)
